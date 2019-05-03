@@ -30,6 +30,7 @@ opggScrape.getStats('hide on bush', {region: 'kr', refresh: false}).then(stats =
 `las`
 `ru`
 `tr`
+There might be some that will work that aren't here.
 
 ### `getStats(username, options)`
 ```js
