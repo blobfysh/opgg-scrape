@@ -10,7 +10,9 @@
   "license": "MIT",
   "repository": "blobfysh/opgg-scrape",
   "keywords": [
-    "LoL"
+    "league of legends",
+	"opgg",
+	"scraper"
   ],
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
