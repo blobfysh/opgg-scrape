@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/opgg-scrape.png)](https://nodei.co/npm/opgg-scrape/)
+
 ## About
 A very basic op.gg scraper for League of Legends player stats.
 
