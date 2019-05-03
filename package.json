@@ -1,6 +1,6 @@
 {
   "name": "opgg-scrape",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A promise-based op.gg scraper for getting information about League of Legends players",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "blobfysh",
   "license": "MIT",
+  "repository": "blobfysh/opgg-scrape",
+  "keywords": [
+    "LoL"
+  ],
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "puppeteer": "^1.15.0",
