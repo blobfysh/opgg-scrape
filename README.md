@@ -35,6 +35,3 @@ options.refresh = true
 // Will refresh the users stats before sending updated information. WILL TAKE LONGER.
 ```
 
-
-A list of items and their descriptions can be found [here](https://lootcord.com/items).
-
